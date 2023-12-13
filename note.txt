@@ -1,0 +1,17 @@
+npm install typescript@latest -g
+
+tsc --init
+
+tsc --version
+
+
+PS D:\project\typescript> npx --package
+Need to install the following packages:
+true@0.0.4
+Ok to proceed? (y) y
+
+Entering npm script environment at location:
+D:\project\typescript
+Type 'exit' or ^D when finished
+
+PS D:\project\typescript> npm exec --package
